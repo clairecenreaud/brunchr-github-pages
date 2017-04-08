@@ -1,0 +1,92 @@
+#wrapper{	
+	background-image: url("../image/tubes.jpg");
+	height: 500px;
+	padding-top:150px;
+	text-align: center;
+	color: white;
+	background-size: cover;
+	margin-top: -20px;
+}
+
+#abstrait {
+	text-align: center; 
+	background-color: grey !important;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#paysage {
+
+	text-align: center;
+	background-color: #95a5a6;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#portrait { 
+	text-align: center;
+	background-color: #ecf0f1;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+
+	   }
+
+/*tentative*/
+
+#footer { 
+	text-align: center;
+	background-color: pink;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	   }
+
+#footer2 {
+	text-align: center;
+	background-color: #E15DFF;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;	
+}
+
+#footer a {
+	color : red;
+}
+
+#footer a:hover {
+	color : blue;
+}
+
+.btn {
+	background-color: #630FCC !important;
+	color : white !important;
+	border : 4px solid white;
+}
+
+.btn:hover{
+	background-color: #6A087F !important;
+}
+
+img { margin: 10px;
+ }
+
+
+#imagedroite {
+	text-align: right;
+	position: absolute;
+    right: 0px;
+}
+
+#social {
+	height: 100px !important;
+}
+
